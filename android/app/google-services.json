@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "300900636533",
+    "firebase_url": "https://market-place-3fe65.firebaseio.com",
+    "project_id": "market-place-3fe65",
+    "storage_bucket": "market-place-3fe65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300900636533:android:f9c37a956e5036e5c6e53c",
+        "android_client_info": {
+          "package_name": "com.ertigun.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300900636533-8t2dltpeq3h4vgo16tv8jdgto80qn3ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ertigun.marketplace",
+            "certificate_hash": "e1c788c9d18dc4c235c5c40c690252812cc02d49"
+          }
+        },
+        {
+          "client_id": "300900636533-p5vu41r98bs5vg2rpl498nc6eqtcr2ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF_DJYkkMqN04IHbaZL28DqhzRfpvqoiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300900636533-p5vu41r98bs5vg2rpl498nc6eqtcr2ub.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "300900636533-evk6sktc3kmb2327jtpnl0faloaitr09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ertigun.marketplace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
