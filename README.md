@@ -1,6 +1,9 @@
 # marketplace
 
 
+![Video Demo of Upload Feature](demo-assets/video.mp4?raw=true "UNLIKE")
+
+
 
 ![Alt text](demo-assets/activity_feed_img.jpeg?raw=true "HOME")
 
@@ -16,7 +19,5 @@
 
 
 
-
-![Alt text](demo-assets/video.mp4?raw=true "UNLIKE")
 
 
