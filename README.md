@@ -1,16 +1,22 @@
 # marketplace
 
-A new Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Alt text](demo-assets/activity_feed_img.jpeg?raw=true "HOME")
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Alt text](demo-assets/full_img.jpeg?raw=true "TABS")
+
+
+
+
+![Alt text](demo-assets/upload_img.jpeg?raw=true "LIKES")
+
+
+
+
+![Alt text](demo-assets/video.jpeg?raw=true "UNLIKE")
+
+
